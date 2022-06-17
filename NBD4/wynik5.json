@@ -1,0 +1,202 @@
+﻿[
+  {
+    "n.name": "ORD",
+    "origin_cnt": 48
+  },
+  {
+    "n.name": "DTW",
+    "origin_cnt": 25
+  },
+  {
+    "n.name": "IAH",
+    "origin_cnt": 23
+  },
+  {
+    "n.name": "LAX",
+    "origin_cnt": 22
+  },
+  {
+    "n.name": "DEN",
+    "origin_cnt": 18
+  },
+  {
+    "n.name": "SFO",
+    "origin_cnt": 14
+  },
+  {
+    "n.name": "AZO",
+    "origin_cnt": 13
+  },
+  {
+    "n.name": "IAD",
+    "origin_cnt": 12
+  },
+  {
+    "n.name": "BNA",
+    "origin_cnt": 12
+  },
+  {
+    "n.name": "MSP",
+    "origin_cnt": 9
+  },
+  {
+    "n.name": "MOT",
+    "origin_cnt": 8
+  },
+  {
+    "n.name": "EWR",
+    "origin_cnt": 7
+  },
+  {
+    "n.name": "SLC",
+    "origin_cnt": 5
+  },
+  {
+    "n.name": "HNL",
+    "origin_cnt": 5
+  },
+  {
+    "n.name": "FSD",
+    "origin_cnt": 5
+  },
+  {
+    "n.name": "MCO",
+    "origin_cnt": 4
+  },
+  {
+    "n.name": "PDX",
+    "origin_cnt": 4
+  },
+  {
+    "n.name": "BOS",
+    "origin_cnt": 4
+  },
+  {
+    "n.name": "DFW",
+    "origin_cnt": 4
+  },
+  {
+    "n.name": "SAN",
+    "origin_cnt": 4
+  },
+  {
+    "n.name": "BHM",
+    "origin_cnt": 4
+  },
+  {
+    "n.name": "CVG",
+    "origin_cnt": 4
+  },
+  {
+    "n.name": "ABQ",
+    "origin_cnt": 4
+  },
+  {
+    "n.name": "FAT",
+    "origin_cnt": 4
+  },
+  {
+    "n.name": "DLH",
+    "origin_cnt": 4
+  },
+  {
+    "n.name": "SEA",
+    "origin_cnt": 3
+  },
+  {
+    "n.name": "PHX",
+    "origin_cnt": 3
+  },
+  {
+    "n.name": "SBN",
+    "origin_cnt": 3
+  },
+  {
+    "n.name": "SNA",
+    "origin_cnt": 2
+  },
+  {
+    "n.name": "LAS",
+    "origin_cnt": 2
+  },
+  {
+    "n.name": "ATL",
+    "origin_cnt": 2
+  },
+  {
+    "n.name": "CMH",
+    "origin_cnt": 2
+  },
+  {
+    "n.name": "SJC",
+    "origin_cnt": 2
+  },
+  {
+    "n.name": "LGA",
+    "origin_cnt": 2
+  },
+  {
+    "n.name": "TUS",
+    "origin_cnt": 2
+  },
+  {
+    "n.name": "SAT",
+    "origin_cnt": 1
+  },
+  {
+    "n.name": "FLL",
+    "origin_cnt": 1
+  },
+  {
+    "n.name": "KOA",
+    "origin_cnt": 1
+  },
+  {
+    "n.name": "SMF",
+    "origin_cnt": 1
+  },
+  {
+    "n.name": "RIC",
+    "origin_cnt": 1
+  },
+  {
+    "n.name": "IND",
+    "origin_cnt": 1
+  },
+  {
+    "n.name": "MCI",
+    "origin_cnt": 1
+  },
+  {
+    "n.name": "MSN",
+    "origin_cnt": 1
+  },
+  {
+    "n.name": "BIL",
+    "origin_cnt": 1
+  },
+  {
+    "n.name": "ROC",
+    "origin_cnt": 1
+  },
+  {
+    "n.name": "CLT",
+    "origin_cnt": 1
+  },
+  {
+    "n.name": "DCA",
+    "origin_cnt": 1
+  },
+  {
+    "n.name": "PBI",
+    "origin_cnt": 1
+  },
+  {
+    "n.name": "MIA",
+    "origin_cnt": 1
+  },
+  {
+    "n.name": "MOB",
+    "origin_cnt": 1
+  }
+]

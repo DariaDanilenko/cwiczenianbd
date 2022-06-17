@@ -1,0 +1,4866 @@
+﻿[
+  {
+    "f": {
+"identity": 22,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 09:04:07",
+"duration": 68,
+"min_price": 412.5,
+"distance": 528,
+"airline": "19977"
+      }
+    },
+    "min_price": 412.5
+  },
+  {
+    "f": {
+"identity": 26,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 04:19:34",
+"duration": 215,
+"min_price": 1357.5,
+"distance": 1739,
+"airline": "19977"
+      }
+    },
+    "min_price": 1357.5
+  },
+  {
+    "f": {
+"identity": 81,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 04:24:12",
+"duration": 218,
+"min_price": 1344.75,
+"distance": 1721,
+"airline": "19977"
+      }
+    },
+    "min_price": 1344.75
+  },
+  {
+    "f": {
+"identity": 85,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 17:26:06",
+"duration": 340,
+"min_price": 2008.5,
+"distance": 2565,
+"airline": "19977"
+      }
+    },
+    "min_price": 2008.5
+  },
+  {
+    "f": {
+"identity": 89,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 16:00:26",
+"duration": 156,
+"min_price": 1089.0,
+"distance": 1400,
+"airline": "19977"
+      }
+    },
+    "min_price": 1089.0
+  },
+  {
+    "f": {
+"identity": 93,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 23:40:09",
+"duration": 35,
+"min_price": 151.5,
+"distance": 191,
+"airline": "19977"
+      }
+    },
+    "min_price": 151.5
+  },
+  {
+    "f": {
+"identity": 97,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 01:18:48",
+"duration": 109,
+"min_price": 667.5,
+"distance": 854,
+"airline": "19977"
+      }
+    },
+    "min_price": 667.5
+  },
+  {
+    "f": {
+"identity": 101,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 18:23:45",
+"duration": 127,
+"min_price": 734.25,
+"distance": 937,
+"airline": "19977"
+      }
+    },
+    "min_price": 734.25
+  },
+  {
+    "f": {
+"identity": 105,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 16:19:03",
+"duration": 165,
+"min_price": 1103.25,
+"distance": 1416,
+"airline": "19977"
+      }
+    },
+    "min_price": 1103.25
+  },
+  {
+    "f": {
+"identity": 109,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 15:28:33",
+"duration": 39,
+"min_price": 177.75,
+"distance": 224,
+"airline": "19977"
+      }
+    },
+    "min_price": 177.75
+  },
+  {
+    "f": {
+"identity": 113,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 13:20:16",
+"duration": 145,
+"min_price": 1070.25,
+"distance": 1379,
+"airline": "19977"
+      }
+    },
+    "min_price": 1070.25
+  },
+  {
+    "f": {
+"identity": 117,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 05:40:55",
+"duration": 143,
+"min_price": 834.0,
+"distance": 1065,
+"airline": "19977"
+      }
+    },
+    "min_price": 834.0
+  },
+  {
+    "f": {
+"identity": 121,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 03:53:15",
+"duration": 243,
+"min_price": 1445.25,
+"distance": 1846,
+"airline": "19977"
+      }
+    },
+    "min_price": 1445.25
+  },
+  {
+    "f": {
+"identity": 125,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 18:53:40",
+"duration": 337,
+"min_price": 2007.75,
+"distance": 2565,
+"airline": "19977"
+      }
+    },
+    "min_price": 2007.75
+  },
+  {
+    "f": {
+"identity": 129,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 21:43:26",
+"duration": 57,
+"min_price": 264.75,
+"distance": 334,
+"airline": "19977"
+      }
+    },
+    "min_price": 264.75
+  },
+  {
+    "f": {
+"identity": 133,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 04:08:17",
+"duration": 23,
+"min_price": 86.25,
+"distance": 108,
+"airline": "19977"
+      }
+    },
+    "min_price": 86.25
+  },
+  {
+    "f": {
+"identity": 137,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 01:59:00",
+"duration": 267,
+"min_price": 1842.0,
+"distance": 2367,
+"airline": "19977"
+      }
+    },
+    "min_price": 1842.0
+  },
+  {
+    "f": {
+"identity": 141,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 03:01:13",
+"duration": 86,
+"min_price": 560.25,
+"distance": 719,
+"airline": "19977"
+      }
+    },
+    "min_price": 560.25
+  },
+  {
+    "f": {
+"identity": 145,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 08:14:49",
+"duration": 258,
+"min_price": 1905.0,
+"distance": 2454,
+"airline": "19977"
+      }
+    },
+    "min_price": 1905.0
+  },
+  {
+    "f": {
+"identity": 149,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 15:13:59",
+"duration": 84,
+"min_price": 433.5,
+"distance": 550,
+"airline": "19977"
+      }
+    },
+    "min_price": 433.5
+  },
+  {
+    "f": {
+"identity": 153,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 02:43:30",
+"duration": 121,
+"min_price": 755.25,
+"distance": 967,
+"airline": "19977"
+      }
+    },
+    "min_price": 755.25
+  },
+  {
+    "f": {
+"identity": 157,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 20:42:31",
+"duration": 116,
+"min_price": 567.75,
+"distance": 719,
+"airline": "19977"
+      }
+    },
+    "min_price": 567.75
+  },
+  {
+    "f": {
+"identity": 161,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 23:33:29",
+"duration": 233,
+"min_price": 1365.75,
+"distance": 1744,
+"airline": "19977"
+      }
+    },
+    "min_price": 1365.75
+  },
+  {
+    "f": {
+"identity": 165,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 08:37:58",
+"duration": 118,
+"min_price": 637.5,
+"distance": 811,
+"airline": "19977"
+      }
+    },
+    "min_price": 637.5
+  },
+  {
+    "f": {
+"identity": 169,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 11:09:25",
+"duration": 142,
+"min_price": 729.0,
+"distance": 925,
+"airline": "19977"
+      }
+    },
+    "min_price": 729.0
+  },
+  {
+    "f": {
+"identity": 171,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 12:23:33",
+"duration": 145,
+"min_price": 789.75,
+"distance": 1005,
+"airline": "19977"
+      }
+    },
+    "min_price": 789.75
+  },
+  {
+    "f": {
+"identity": 175,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 15:22:49",
+"duration": 227,
+"min_price": 1392.0,
+"distance": 1781,
+"airline": "19977"
+      }
+    },
+    "min_price": 1392.0
+  },
+  {
+    "f": {
+"identity": 179,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 00:17:02",
+"duration": 113,
+"min_price": 709.5,
+"distance": 909,
+"airline": "19977"
+      }
+    },
+    "min_price": 709.5
+  },
+  {
+    "f": {
+"identity": 183,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 08:42:05",
+"duration": 335,
+"min_price": 2007.0,
+"distance": 2565,
+"airline": "19977"
+      }
+    },
+    "min_price": 2007.0
+  },
+  {
+    "f": {
+"identity": 187,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 21:50:26",
+"duration": 144,
+"min_price": 789.75,
+"distance": 1005,
+"airline": "19977"
+      }
+    },
+    "min_price": 789.75
+  },
+  {
+    "f": {
+"identity": 191,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 15:25:58",
+"duration": 101,
+"min_price": 506.25,
+"distance": 642,
+"airline": "19977"
+      }
+    },
+    "min_price": 506.25
+  },
+  {
+    "f": {
+"identity": 195,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 17:30:21",
+"duration": 47,
+"min_price": 144.0,
+"distance": 177,
+"airline": "19977"
+      }
+    },
+    "min_price": 144.0
+  },
+  {
+    "f": {
+"identity": 199,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 17:45:26",
+"duration": 130,
+"min_price": 791.25,
+"distance": 1012,
+"airline": "19977"
+      }
+    },
+    "min_price": 791.25
+  },
+  {
+    "f": {
+"identity": 203,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 23:41:17",
+"duration": 234,
+"min_price": 1256.25,
+"distance": 1597,
+"airline": "19977"
+      }
+    },
+    "min_price": 1256.25
+  },
+  {
+    "f": {
+"identity": 207,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 16:04:12",
+"duration": 56,
+"min_price": 323.25,
+"distance": 413,
+"airline": "19977"
+      }
+    },
+    "min_price": 323.25
+  },
+  {
+    "f": {
+"identity": 211,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 06:14:37",
+"duration": 187,
+"min_price": 1261.5,
+"distance": 1620,
+"airline": "19977"
+      }
+    },
+    "min_price": 1261.5
+  },
+  {
+    "f": {
+"identity": 215,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 11:31:09",
+"duration": 112,
+"min_price": 753.0,
+"distance": 967,
+"airline": "19977"
+      }
+    },
+    "min_price": 753.0
+  },
+  {
+    "f": {
+"identity": 219,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 23:37:27",
+"duration": 212,
+"min_price": 1150.5,
+"distance": 1464,
+"airline": "19977"
+      }
+    },
+    "min_price": 1150.5
+  },
+  {
+    "f": {
+"identity": 223,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 06:45:55",
+"duration": 215,
+"min_price": 1151.25,
+"distance": 1464,
+"airline": "19977"
+      }
+    },
+    "min_price": 1151.25
+  },
+  {
+    "f": {
+"identity": 227,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 17:56:42",
+"duration": 134,
+"min_price": 758.25,
+"distance": 967,
+"airline": "19977"
+      }
+    },
+    "min_price": 758.25
+  },
+  {
+    "f": {
+"identity": 231,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 11:14:05",
+"duration": 177,
+"min_price": 1248.0,
+"distance": 1605,
+"airline": "19977"
+      }
+    },
+    "min_price": 1248.0
+  },
+  {
+    "f": {
+"identity": 235,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 09:57:08",
+"duration": 105,
+"min_price": 666.75,
+"distance": 854,
+"airline": "19977"
+      }
+    },
+    "min_price": 666.75
+  },
+  {
+    "f": {
+"identity": 239,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 16:22:50",
+"duration": 146,
+"min_price": 932.25,
+"distance": 1195,
+"airline": "19977"
+      }
+    },
+    "min_price": 932.25
+  },
+  {
+    "f": {
+"identity": 243,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 15:06:05",
+"duration": 129,
+"min_price": 897.75,
+"distance": 1154,
+"airline": "19977"
+      }
+    },
+    "min_price": 897.75
+  },
+  {
+    "f": {
+"identity": 247,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 05:31:23",
+"duration": 367,
+"min_price": 2119.5,
+"distance": 2704,
+"airline": "19977"
+      }
+    },
+    "min_price": 2119.5
+  },
+  {
+    "f": {
+"identity": 251,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 19:04:40",
+"duration": 62,
+"min_price": 330.75,
+"distance": 421,
+"airline": "19977"
+      }
+    },
+    "min_price": 330.75
+  },
+  {
+    "f": {
+"identity": 255,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 16:50:57",
+"duration": 204,
+"min_price": 1175.25,
+"distance": 1499,
+"airline": "19977"
+      }
+    },
+    "min_price": 1175.25
+  },
+  {
+    "f": {
+"identity": 259,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 05:41:51",
+"duration": 102,
+"min_price": 675.75,
+"distance": 867,
+"airline": "19977"
+      }
+    },
+    "min_price": 675.75
+  },
+  {
+    "f": {
+"identity": 263,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 07:25:20",
+"duration": 114,
+"min_price": 694.5,
+"distance": 888,
+"airline": "19977"
+      }
+    },
+    "min_price": 694.5
+  },
+  {
+    "f": {
+"identity": 267,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 05:05:26",
+"duration": 77,
+"min_price": 431.25,
+"distance": 550,
+"airline": "19977"
+      }
+    },
+    "min_price": 431.25
+  },
+  {
+    "f": {
+"identity": 271,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 05:26:41",
+"duration": 30,
+"min_price": 88.5,
+"distance": 108,
+"airline": "19977"
+      }
+    },
+    "min_price": 88.5
+  },
+  {
+    "f": {
+"identity": 275,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 01:44:33",
+"duration": 142,
+"min_price": 875.25,
+"distance": 1120,
+"airline": "19977"
+      }
+    },
+    "min_price": 875.25
+  },
+  {
+    "f": {
+"identity": 279,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 01:12:16",
+"duration": 90,
+"min_price": 609.75,
+"distance": 783,
+"airline": "19977"
+      }
+    },
+    "min_price": 609.75
+  },
+  {
+    "f": {
+"identity": 283,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 00:06:06",
+"duration": 75,
+"min_price": 459.75,
+"distance": 588,
+"airline": "19977"
+      }
+    },
+    "min_price": 459.75
+  },
+  {
+    "f": {
+"identity": 287,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 06:45:42",
+"duration": 102,
+"min_price": 563.25,
+"distance": 717,
+"airline": "19977"
+      }
+    },
+    "min_price": 563.25
+  },
+  {
+    "f": {
+"identity": 291,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 10:23:34",
+"duration": 116,
+"min_price": 753.0,
+"distance": 966,
+"airline": "19977"
+      }
+    },
+    "min_price": 753.0
+  },
+  {
+    "f": {
+"identity": 295,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 10:34:03",
+"duration": 244,
+"min_price": 1355.25,
+"distance": 1726,
+"airline": "19977"
+      }
+    },
+    "min_price": 1355.25
+  },
+  {
+    "f": {
+"identity": 299,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 11:16:47",
+"duration": 151,
+"min_price": 1047.0,
+"distance": 1346,
+"airline": "19977"
+      }
+    },
+    "min_price": 1047.0
+  },
+  {
+    "f": {
+"identity": 303,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 17:42:12",
+"duration": 542,
+"min_price": 3856.5,
+"distance": 4962,
+"airline": "19977"
+      }
+    },
+    "min_price": 3856.5
+  },
+  {
+    "f": {
+"identity": 307,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 00:15:42",
+"duration": 608,
+"min_price": 3873.0,
+"distance": 4962,
+"airline": "19977"
+      }
+    },
+    "min_price": 3873.0
+  },
+  {
+    "f": {
+"identity": 311,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 04:45:09",
+"duration": 285,
+"min_price": 1869.75,
+"distance": 2398,
+"airline": "19977"
+      }
+    },
+    "min_price": 1869.75
+  },
+  {
+    "f": {
+"identity": 315,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 11:35:55",
+"duration": 276,
+"min_price": 1992.75,
+"distance": 2565,
+"airline": "19977"
+      }
+    },
+    "min_price": 1992.75
+  },
+  {
+    "f": {
+"identity": 319,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 03:57:27",
+"duration": 53,
+"min_price": 263.25,
+"distance": 334,
+"airline": "19977"
+      }
+    },
+    "min_price": 263.25
+  },
+  {
+    "f": {
+"identity": 323,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 21:48:28",
+"duration": 80,
+"min_price": 486.0,
+"distance": 622,
+"airline": "19977"
+      }
+    },
+    "min_price": 486.0
+  },
+  {
+    "f": {
+"identity": 327,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 12:58:23",
+"duration": 211,
+"min_price": 1437.0,
+"distance": 1846,
+"airline": "19977"
+      }
+    },
+    "min_price": 1437.0
+  },
+  {
+    "f": {
+"identity": 331,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 16:25:59",
+"duration": 336,
+"min_price": 1773.75,
+"distance": 2253,
+"airline": "19977"
+      }
+    },
+    "min_price": 1773.75
+  },
+  {
+    "f": {
+"identity": 335,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 16:42:16",
+"duration": 145,
+"min_price": 933.75,
+"distance": 1197,
+"airline": "19977"
+      }
+    },
+    "min_price": 933.75
+  },
+  {
+    "f": {
+"identity": 339,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 12:34:15",
+"duration": 330,
+"min_price": 1772.25,
+"distance": 2253,
+"airline": "19977"
+      }
+    },
+    "min_price": 1772.25
+  },
+  {
+    "f": {
+"identity": 343,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 02:19:41",
+"duration": 103,
+"min_price": 665.25,
+"distance": 853,
+"airline": "19977"
+      }
+    },
+    "min_price": 665.25
+  },
+  {
+    "f": {
+"identity": 347,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 13:09:02",
+"duration": 278,
+"min_price": 1992.75,
+"distance": 2565,
+"airline": "19977"
+      }
+    },
+    "min_price": 1992.75
+  },
+  {
+    "f": {
+"identity": 351,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 10:50:22",
+"duration": 269,
+"min_price": 1901.25,
+"distance": 2446,
+"airline": "19977"
+      }
+    },
+    "min_price": 1901.25
+  },
+  {
+    "f": {
+"identity": 355,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 04:10:56",
+"duration": 284,
+"min_price": 1869.0,
+"distance": 2398,
+"airline": "19977"
+      }
+    },
+    "min_price": 1869.0
+  },
+  {
+    "f": {
+"identity": 359,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 12:11:25",
+"duration": 222,
+"min_price": 1604.25,
+"distance": 2065,
+"airline": "19977"
+      }
+    },
+    "min_price": 1604.25
+  },
+  {
+    "f": {
+"identity": 363,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 22:39:02",
+"duration": 101,
+"min_price": 476.25,
+"distance": 602,
+"airline": "19977"
+      }
+    },
+    "min_price": 476.25
+  },
+  {
+    "f": {
+"identity": 367,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 12:07:20",
+"duration": 91,
+"min_price": 503.25,
+"distance": 641,
+"airline": "19977"
+      }
+    },
+    "min_price": 503.25
+  },
+  {
+    "f": {
+"identity": 371,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 05:32:29",
+"duration": 230,
+"min_price": 1746.75,
+"distance": 2253,
+"airline": "19977"
+      }
+    },
+    "min_price": 1746.75
+  },
+  {
+    "f": {
+"identity": 375,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 10:00:38",
+"duration": 150,
+"min_price": 770.25,
+"distance": 977,
+"airline": "19977"
+      }
+    },
+    "min_price": 770.25
+  },
+  {
+    "f": {
+"identity": 379,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 10:24:04",
+"duration": 324,
+"min_price": 1770.75,
+"distance": 2253,
+"airline": "19977"
+      }
+    },
+    "min_price": 1770.75
+  },
+  {
+    "f": {
+"identity": 383,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 18:12:05",
+"duration": 187,
+"min_price": 1338.75,
+"distance": 1723,
+"airline": "19977"
+      }
+    },
+    "min_price": 1338.75
+  },
+  {
+    "f": {
+"identity": 387,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 01:19:11",
+"duration": 92,
+"min_price": 477.0,
+"distance": 606,
+"airline": "19977"
+      }
+    },
+    "min_price": 477.0
+  },
+  {
+    "f": {
+"identity": 391,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 18:14:09",
+"duration": 223,
+"min_price": 1346.25,
+"distance": 1721,
+"airline": "19977"
+      }
+    },
+    "min_price": 1346.25
+  },
+  {
+    "f": {
+"identity": 395,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 01:20:17",
+"duration": 289,
+"min_price": 2100.0,
+"distance": 2704,
+"airline": "19977"
+      }
+    },
+    "min_price": 2100.0
+  },
+  {
+    "f": {
+"identity": 399,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 06:57:05",
+"duration": 109,
+"min_price": 681.0,
+"distance": 872,
+"airline": "19977"
+      }
+    },
+    "min_price": 681.0
+  },
+  {
+    "f": {
+"identity": 403,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 09:12:57",
+"duration": 105,
+"min_price": 692.25,
+"distance": 888,
+"airline": "19977"
+      }
+    },
+    "min_price": 692.25
+  },
+  {
+    "f": {
+"identity": 407,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 23:47:08",
+"duration": 90,
+"min_price": 572.25,
+"distance": 733,
+"airline": "19977"
+      }
+    },
+    "min_price": 572.25
+  },
+  {
+    "f": {
+"identity": 411,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 03:35:47",
+"duration": 143,
+"min_price": 803.25,
+"distance": 1024,
+"airline": "19977"
+      }
+    },
+    "min_price": 803.25
+  },
+  {
+    "f": {
+"identity": 415,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 20:53:15",
+"duration": 53,
+"min_price": 234.75,
+"distance": 296,
+"airline": "19977"
+      }
+    },
+    "min_price": 234.75
+  },
+  {
+    "f": {
+"identity": 419,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 22:48:41",
+"duration": 130,
+"min_price": 743.25,
+"distance": 948,
+"airline": "19977"
+      }
+    },
+    "min_price": 743.25
+  },
+  {
+    "f": {
+"identity": 423,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 22:34:50",
+"duration": 135,
+"min_price": 699.75,
+"distance": 888,
+"airline": "19977"
+      }
+    },
+    "min_price": 699.75
+  },
+  {
+    "f": {
+"identity": 427,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 16:22:03",
+"duration": 131,
+"min_price": 791.25,
+"distance": 1012,
+"airline": "19977"
+      }
+    },
+    "min_price": 791.25
+  },
+  {
+    "f": {
+"identity": 431,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 03:37:55",
+"duration": 131,
+"min_price": 743.25,
+"distance": 948,
+"airline": "19977"
+      }
+    },
+    "min_price": 743.25
+  },
+  {
+    "f": {
+"identity": 435,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 03:36:54",
+"duration": 56,
+"min_price": 323.25,
+"distance": 413,
+"airline": "19977"
+      }
+    },
+    "min_price": 323.25
+  },
+  {
+    "f": {
+"identity": 439,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 07:20:48",
+"duration": 162,
+"min_price": 1120.5,
+"distance": 1440,
+"airline": "19977"
+      }
+    },
+    "min_price": 1120.5
+  },
+  {
+    "f": {
+"identity": 443,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 00:56:44",
+"duration": 174,
+"min_price": 936.0,
+"distance": 1190,
+"airline": "19977"
+      }
+    },
+    "min_price": 936.0
+  },
+  {
+    "f": {
+"identity": 447,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 15:31:18",
+"duration": 51,
+"min_price": 249.75,
+"distance": 316,
+"airline": "19977"
+      }
+    },
+    "min_price": 249.75
+  },
+  {
+    "f": {
+"identity": 451,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 06:29:14",
+"duration": 270,
+"min_price": 1812.75,
+"distance": 2327,
+"airline": "19977"
+      }
+    },
+    "min_price": 1812.75
+  },
+  {
+    "f": {
+"identity": 455,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 04:31:15",
+"duration": 300,
+"min_price": 1820.25,
+"distance": 2327,
+"airline": "19977"
+      }
+    },
+    "min_price": 1820.25
+  },
+  {
+    "f": {
+"identity": 459,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 18:38:04",
+"duration": 404,
+"min_price": 3028.5,
+"distance": 3904,
+"airline": "19977"
+      }
+    },
+    "min_price": 3028.5
+  },
+  {
+    "f": {
+"identity": 463,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 23:25:25",
+"duration": 486,
+"min_price": 3049.5,
+"distance": 3904,
+"airline": "19977"
+      }
+    },
+    "min_price": 3049.5
+  },
+  {
+    "f": {
+"identity": 467,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 06:23:39",
+"duration": 111,
+"min_price": 693.75,
+"distance": 888,
+"airline": "19977"
+      }
+    },
+    "min_price": 693.75
+  },
+  {
+    "f": {
+"identity": 471,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 22:02:50",
+"duration": 73,
+"min_price": 469.5,
+"distance": 602,
+"airline": "19977"
+      }
+    },
+    "min_price": 469.5
+  },
+  {
+    "f": {
+"identity": 475,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 18:20:30",
+"duration": 152,
+"min_price": 935.25,
+"distance": 1197,
+"airline": "19977"
+      }
+    },
+    "min_price": 935.25
+  },
+  {
+    "f": {
+"identity": 479,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 03:56:07",
+"duration": 133,
+"min_price": 758.25,
+"distance": 967,
+"airline": "19977"
+      }
+    },
+    "min_price": 758.25
+  },
+  {
+    "f": {
+"identity": 483,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 02:42:54",
+"duration": 55,
+"min_price": 266.25,
+"distance": 337,
+"airline": "19977"
+      }
+    },
+    "min_price": 266.25
+  },
+  {
+    "f": {
+"identity": 487,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 14:47:31",
+"duration": 130,
+"min_price": 757.5,
+"distance": 967,
+"airline": "19977"
+      }
+    },
+    "min_price": 757.5
+  },
+  {
+    "f": {
+"identity": 491,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 14:54:07",
+"duration": 215,
+"min_price": 1212.75,
+"distance": 1546,
+"airline": "19977"
+      }
+    },
+    "min_price": 1212.75
+  },
+  {
+    "f": {
+"identity": 495,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 01:36:25",
+"duration": 218,
+"min_price": 1189.5,
+"distance": 1514,
+"airline": "19977"
+      }
+    },
+    "min_price": 1189.5
+  },
+  {
+    "f": {
+"identity": 499,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 18:38:07",
+"duration": 68,
+"min_price": 328.5,
+"distance": 416,
+"airline": "19977"
+      }
+    },
+    "min_price": 328.5
+  },
+  {
+    "f": {
+"identity": 503,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 08:00:51",
+"duration": 134,
+"min_price": 801.0,
+"distance": 1024,
+"airline": "19977"
+      }
+    },
+    "min_price": 801.0
+  },
+  {
+    "f": {
+"identity": 507,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 21:34:17",
+"duration": 106,
+"min_price": 594.75,
+"distance": 758,
+"airline": "19977"
+      }
+    },
+    "min_price": 594.75
+  },
+  {
+    "f": {
+"identity": 511,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 22:10:45",
+"duration": 98,
+"min_price": 465.0,
+"distance": 588,
+"airline": "19977"
+      }
+    },
+    "min_price": 465.0
+  },
+  {
+    "f": {
+"identity": 515,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 10:14:43",
+"duration": 142,
+"min_price": 729.0,
+"distance": 925,
+"airline": "19977"
+      }
+    },
+    "min_price": 729.0
+  },
+  {
+    "f": {
+"identity": 519,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 23:58:24",
+"duration": 151,
+"min_price": 963.75,
+"distance": 1235,
+"airline": "19977"
+      }
+    },
+    "min_price": 963.75
+  },
+  {
+    "f": {
+"identity": 523,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 23:43:41",
+"duration": 73,
+"min_price": 359.25,
+"distance": 455,
+"airline": "19977"
+      }
+    },
+    "min_price": 359.25
+  },
+  {
+    "f": {
+"identity": 527,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 11:30:28",
+"duration": 113,
+"min_price": 721.5,
+"distance": 925,
+"airline": "19977"
+      }
+    },
+    "min_price": 721.5
+  },
+  {
+    "f": {
+"identity": 531,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 05:25:55",
+"duration": 181,
+"min_price": 1271.25,
+"distance": 1635,
+"airline": "19977"
+      }
+    },
+    "min_price": 1271.25
+  },
+  {
+    "f": {
+"identity": 535,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 05:35:18",
+"duration": 104,
+"min_price": 594.0,
+"distance": 758,
+"airline": "19977"
+      }
+    },
+    "min_price": 594.0
+  },
+  {
+    "f": {
+"identity": 539,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 12:37:11",
+"duration": 233,
+"min_price": 1272.75,
+"distance": 1620,
+"airline": "19977"
+      }
+    },
+    "min_price": 1272.75
+  },
+  {
+    "f": {
+"identity": 543,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 23:11:39",
+"duration": 267,
+"min_price": 1907.25,
+"distance": 2454,
+"airline": "19977"
+      }
+    },
+    "min_price": 1907.25
+  },
+  {
+    "f": {
+"identity": 547,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 22:01:53",
+"duration": 88,
+"min_price": 331.5,
+"distance": 413,
+"airline": "19977"
+      }
+    },
+    "min_price": 331.5
+  },
+  {
+    "f": {
+"identity": 551,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 22:53:04",
+"duration": 102,
+"min_price": 466.5,
+"distance": 588,
+"airline": "19977"
+      }
+    },
+    "min_price": 466.5
+  },
+  {
+    "f": {
+"identity": 555,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 12:35:43",
+"duration": 150,
+"min_price": 770.25,
+"distance": 977,
+"airline": "19977"
+      }
+    },
+    "min_price": 770.25
+  },
+  {
+    "f": {
+"identity": 559,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 14:54:56",
+"duration": 331,
+"min_price": 1923.0,
+"distance": 2454,
+"airline": "19977"
+      }
+    },
+    "min_price": 1923.0
+  },
+  {
+    "f": {
+"identity": 563,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 00:23:47",
+"duration": 62,
+"min_price": 237.0,
+"distance": 296,
+"airline": "19977"
+      }
+    },
+    "min_price": 237.0
+  },
+  {
+    "f": {
+"identity": 567,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 08:03:36",
+"duration": 236,
+"min_price": 1394.25,
+"distance": 1781,
+"airline": "19977"
+      }
+    },
+    "min_price": 1394.25
+  },
+  {
+    "f": {
+"identity": 571,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 09:12:51",
+"duration": 220,
+"min_price": 1143.75,
+"distance": 1452,
+"airline": "19977"
+      }
+    },
+    "min_price": 1143.75
+  },
+  {
+    "f": {
+"identity": 575,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 10:08:31",
+"duration": 261,
+"min_price": 1879.5,
+"distance": 2419,
+"airline": "19977"
+      }
+    },
+    "min_price": 1879.5
+  },
+  {
+    "f": {
+"identity": 579,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 19:53:26",
+"duration": 222,
+"min_price": 1359.75,
+"distance": 1739,
+"airline": "19977"
+      }
+    },
+    "min_price": 1359.75
+  },
+  {
+    "f": {
+"identity": 583,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 02:38:02",
+"duration": 87,
+"min_price": 417.75,
+"distance": 528,
+"airline": "19977"
+      }
+    },
+    "min_price": 417.75
+  },
+  {
+    "f": {
+"identity": 587,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 20:39:14",
+"duration": 125,
+"min_price": 580.5,
+"distance": 733,
+"airline": "19977"
+      }
+    },
+    "min_price": 580.5
+  },
+  {
+    "f": {
+"identity": 591,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 08:49:41",
+"duration": 214,
+"min_price": 1188.75,
+"distance": 1514,
+"airline": "19977"
+      }
+    },
+    "min_price": 1188.75
+  },
+  {
+    "f": {
+"identity": 595,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 00:28:08",
+"duration": 52,
+"min_price": 263.25,
+"distance": 334,
+"airline": "19977"
+      }
+    },
+    "min_price": 263.25
+  },
+  {
+    "f": {
+"identity": 599,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 09:25:42",
+"duration": 111,
+"min_price": 655.5,
+"distance": 837,
+"airline": "19977"
+      }
+    },
+    "min_price": 655.5
+  },
+  {
+    "f": {
+"identity": 603,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 09:08:49",
+"duration": 93,
+"min_price": 472.5,
+"distance": 599,
+"airline": "19977"
+      }
+    },
+    "min_price": 472.5
+  },
+  {
+    "f": {
+"identity": 607,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 05:22:44",
+"duration": 72,
+"min_price": 353.25,
+"distance": 447,
+"airline": "19977"
+      }
+    },
+    "min_price": 353.25
+  },
+  {
+    "f": {
+"identity": 611,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 20:51:27",
+"duration": 76,
+"min_price": 431.25,
+"distance": 550,
+"airline": "19977"
+      }
+    },
+    "min_price": 431.25
+  },
+  {
+    "f": {
+"identity": 615,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 11:17:15",
+"duration": 120,
+"min_price": 741.0,
+"distance": 948,
+"airline": "19977"
+      }
+    },
+    "min_price": 741.0
+  },
+  {
+    "f": {
+"identity": 619,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 12:19:10",
+"duration": 131,
+"min_price": 757.5,
+"distance": 967,
+"airline": "19977"
+      }
+    },
+    "min_price": 757.5
+  },
+  {
+    "f": {
+"identity": 623,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 16:19:49",
+"duration": 108,
+"min_price": 537.0,
+"distance": 680,
+"airline": "19977"
+      }
+    },
+    "min_price": 537.0
+  },
+  {
+    "f": {
+"identity": 627,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 12:39:46",
+"duration": 74,
+"min_price": 327.75,
+"distance": 413,
+"airline": "19977"
+      }
+    },
+    "min_price": 327.75
+  },
+  {
+    "f": {
+"identity": 631,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 20:21:10",
+"duration": 338,
+"min_price": 1898.25,
+"distance": 2419,
+"airline": "19977"
+      }
+    },
+    "min_price": 1898.25
+  },
+  {
+    "f": {
+"identity": 635,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 23:49:58",
+"duration": 72,
+"min_price": 411.0,
+"distance": 524,
+"airline": "19977"
+      }
+    },
+    "min_price": 411.0
+  },
+  {
+    "f": {
+"identity": 639,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 04:18:02",
+"duration": 71,
+"min_price": 388.5,
+"distance": 495,
+"airline": "19977"
+      }
+    },
+    "min_price": 388.5
+  },
+  {
+    "f": {
+"identity": 643,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 13:53:54",
+"duration": 80,
+"min_price": 490.5,
+"distance": 628,
+"airline": "19977"
+      }
+    },
+    "min_price": 490.5
+  },
+  {
+    "f": {
+"identity": 647,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 15:18:22",
+"duration": 269,
+"min_price": 2025.0,
+"distance": 2611,
+"airline": "19977"
+      }
+    },
+    "min_price": 2025.0
+  },
+  {
+    "f": {
+"identity": 651,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 12:16:45",
+"duration": 63,
+"min_price": 294.75,
+"distance": 372,
+"airline": "19977"
+      }
+    },
+    "min_price": 294.75
+  },
+  {
+    "f": {
+"identity": 655,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 18:52:15",
+"duration": 101,
+"min_price": 483.75,
+"distance": 612,
+"airline": "19977"
+      }
+    },
+    "min_price": 483.75
+  },
+  {
+    "f": {
+"identity": 659,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 07:39:45",
+"duration": 40,
+"min_price": 186.75,
+"distance": 236,
+"airline": "19977"
+      }
+    },
+    "min_price": 186.75
+  },
+  {
+    "f": {
+"identity": 663,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 07:19:35",
+"duration": 241,
+"min_price": 1368.0,
+"distance": 1744,
+"airline": "19977"
+      }
+    },
+    "min_price": 1368.0
+  },
+  {
+    "f": {
+"identity": 667,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 07:53:43",
+"duration": 104,
+"min_price": 691.5,
+"distance": 888,
+"airline": "19977"
+      }
+    },
+    "min_price": 691.5
+  },
+  {
+    "f": {
+"identity": 671,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 08:17:44",
+"duration": 103,
+"min_price": 675.75,
+"distance": 867,
+"airline": "19977"
+      }
+    },
+    "min_price": 675.75
+  },
+  {
+    "f": {
+"identity": 675,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 04:31:44",
+"duration": 188,
+"min_price": 945.75,
+"distance": 1199,
+"airline": "19977"
+      }
+    },
+    "min_price": 945.75
+  },
+  {
+    "f": {
+"identity": 679,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 19:20:38",
+"duration": 101,
+"min_price": 690.75,
+"distance": 888,
+"airline": "19977"
+      }
+    },
+    "min_price": 690.75
+  },
+  {
+    "f": {
+"identity": 683,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 13:44:13",
+"duration": 93,
+"min_price": 573.0,
+"distance": 733,
+"airline": "19977"
+      }
+    },
+    "min_price": 573.0
+  },
+  {
+    "f": {
+"identity": 687,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 19:27:56",
+"duration": 279,
+"min_price": 1986.75,
+"distance": 2556,
+"airline": "19977"
+      }
+    },
+    "min_price": 1986.75
+  },
+  {
+    "f": {
+"identity": 691,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 17:07:59",
+"duration": 278,
+"min_price": 1992.75,
+"distance": 2565,
+"airline": "19977"
+      }
+    },
+    "min_price": 1992.75
+  },
+  {
+    "f": {
+"identity": 695,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 10:58:16",
+"duration": 204,
+"min_price": 1101.0,
+"distance": 1400,
+"airline": "19977"
+      }
+    },
+    "min_price": 1101.0
+  },
+  {
+    "f": {
+"identity": 699,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 22:05:43",
+"duration": 233,
+"min_price": 1284.0,
+"distance": 1635,
+"airline": "19977"
+      }
+    },
+    "min_price": 1284.0
+  },
+  {
+    "f": {
+"identity": 703,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/9/2015 00:46:52",
+"duration": 84,
+"min_price": 442.5,
+"distance": 562,
+"airline": "20304"
+      }
+    },
+    "min_price": 442.5
+  },
+  {
+    "f": {
+"identity": 707,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/5/2015 08:58:11",
+"duration": 87,
+"min_price": 443.25,
+"distance": 562,
+"airline": "20304"
+      }
+    },
+    "min_price": 443.25
+  },
+  {
+    "f": {
+"identity": 711,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/13/2015 16:08:05",
+"duration": 38,
+"min_price": 159.75,
+"distance": 201,
+"airline": "20304"
+      }
+    },
+    "min_price": 159.75
+  },
+  {
+    "f": {
+"identity": 715,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/16/2015 08:02:50",
+"duration": 41,
+"min_price": 160.5,
+"distance": 201,
+"airline": "20304"
+      }
+    },
+    "min_price": 160.5
+  },
+  {
+    "f": {
+"identity": 719,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/5/2015 19:14:17",
+"duration": 37,
+"min_price": 159.75,
+"distance": 201,
+"airline": "20304"
+      }
+    },
+    "min_price": 159.75
+  },
+  {
+    "f": {
+"identity": 723,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/6/2015 16:43:30",
+"duration": 38,
+"min_price": 159.75,
+"distance": 201,
+"airline": "20304"
+      }
+    },
+    "min_price": 159.75
+  },
+  {
+    "f": {
+"identity": 727,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/12/2015 16:57:59",
+"duration": 38,
+"min_price": 159.75,
+"distance": 201,
+"airline": "20304"
+      }
+    },
+    "min_price": 159.75
+  },
+  {
+    "f": {
+"identity": 731,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 08:05:26",
+"duration": 42,
+"min_price": 161.25,
+"distance": 201,
+"airline": "20304"
+      }
+    },
+    "min_price": 161.25
+  },
+  {
+    "f": {
+"identity": 735,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/9/2015 11:14:16",
+"duration": 36,
+"min_price": 159.75,
+"distance": 201,
+"airline": "20304"
+      }
+    },
+    "min_price": 159.75
+  },
+  {
+    "f": {
+"identity": 739,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/19/2015 11:49:13",
+"duration": 36,
+"min_price": 159.75,
+"distance": 201,
+"airline": "20304"
+      }
+    },
+    "min_price": 159.75
+  },
+  {
+    "f": {
+"identity": 743,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/2/2015 07:54:11",
+"duration": 36,
+"min_price": 159.75,
+"distance": 201,
+"airline": "20304"
+      }
+    },
+    "min_price": 159.75
+  },
+  {
+    "f": {
+"identity": 747,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 20:26:30",
+"duration": 89,
+"min_price": 443.25,
+"distance": 562,
+"airline": "20304"
+      }
+    },
+    "min_price": 443.25
+  },
+  {
+    "f": {
+"identity": 751,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 08:51:26",
+"duration": 136,
+"min_price": 934.5,
+"distance": 1201,
+"airline": "20304"
+      }
+    },
+    "min_price": 934.5
+  },
+  {
+    "f": {
+"identity": 755,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 02:03:55",
+"duration": 87,
+"min_price": 443.25,
+"distance": 562,
+"airline": "20304"
+      }
+    },
+    "min_price": 443.25
+  },
+  {
+    "f": {
+"identity": 759,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 21:58:04",
+"duration": 60,
+"min_price": 336.75,
+"distance": 429,
+"airline": "20304"
+      }
+    },
+    "min_price": 336.75
+  },
+  {
+    "f": {
+"identity": 763,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/21/2015 11:51:23",
+"duration": 69,
+"min_price": 324.0,
+"distance": 409,
+"airline": "20304"
+      }
+    },
+    "min_price": 324.0
+  },
+  {
+    "f": {
+"identity": 767,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/6/2015 06:34:42",
+"duration": 74,
+"min_price": 324.75,
+"distance": 409,
+"airline": "20304"
+      }
+    },
+    "min_price": 324.75
+  },
+  {
+    "f": {
+"identity": 771,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/21/2015 02:15:05",
+"duration": 84,
+"min_price": 438.75,
+"distance": 557,
+"airline": "20304"
+      }
+    },
+    "min_price": 438.75
+  },
+  {
+    "f": {
+"identity": 775,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/6/2015 18:16:09",
+"duration": 88,
+"min_price": 439.5,
+"distance": 557,
+"airline": "20304"
+      }
+    },
+    "min_price": 439.5
+  },
+  {
+    "f": {
+"identity": 779,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/1/2015 23:19:09",
+"duration": 74,
+"min_price": 324.75,
+"distance": 409,
+"airline": "20304"
+      }
+    },
+    "min_price": 324.75
+  },
+  {
+    "f": {
+"identity": 783,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/8/2015 08:54:46",
+"duration": 69,
+"min_price": 324.0,
+"distance": 409,
+"airline": "20304"
+      }
+    },
+    "min_price": 324.0
+  },
+  {
+    "f": {
+"identity": 787,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/22/2015 20:03:21",
+"duration": 72,
+"min_price": 324.75,
+"distance": 409,
+"airline": "20304"
+      }
+    },
+    "min_price": 324.75
+  },
+  {
+    "f": {
+"identity": 791,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/1/2015 06:01:04",
+"duration": 64,
+"min_price": 327.75,
+"distance": 416,
+"airline": "20304"
+      }
+    },
+    "min_price": 327.75
+  },
+  {
+    "f": {
+"identity": 795,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/8/2015 06:18:52",
+"duration": 59,
+"min_price": 326.25,
+"distance": 416,
+"airline": "20304"
+      }
+    },
+    "min_price": 326.25
+  },
+  {
+    "f": {
+"identity": 799,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/22/2015 19:49:12",
+"duration": 66,
+"min_price": 328.5,
+"distance": 416,
+"airline": "20304"
+      }
+    },
+    "min_price": 328.5
+  },
+  {
+    "f": {
+"identity": 803,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 07:46:56",
+"duration": 75,
+"min_price": 325.5,
+"distance": 409,
+"airline": "20304"
+      }
+    },
+    "min_price": 325.5
+  },
+  {
+    "f": {
+"identity": 807,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/25/2015 10:34:52",
+"duration": 69,
+"min_price": 324.0,
+"distance": 409,
+"airline": "20304"
+      }
+    },
+    "min_price": 324.0
+  },
+  {
+    "f": {
+"identity": 811,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/28/2015 10:44:22",
+"duration": 82,
+"min_price": 327.0,
+"distance": 409,
+"airline": "20304"
+      }
+    },
+    "min_price": 327.0
+  },
+  {
+    "f": {
+"identity": 815,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/25/2015 15:32:48",
+"duration": 60,
+"min_price": 324.75,
+"distance": 413,
+"airline": "20304"
+      }
+    },
+    "min_price": 324.75
+  },
+  {
+    "f": {
+"identity": 819,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/28/2015 15:13:48",
+"duration": 57,
+"min_price": 324.0,
+"distance": 413,
+"airline": "20304"
+      }
+    },
+    "min_price": 324.0
+  },
+  {
+    "f": {
+"identity": 823,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 06:15:20",
+"duration": 73,
+"min_price": 346.5,
+"distance": 438,
+"airline": "20304"
+      }
+    },
+    "min_price": 346.5
+  },
+  {
+    "f": {
+"identity": 827,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 23:36:51",
+"duration": 68,
+"min_price": 323.25,
+"distance": 409,
+"airline": "20304"
+      }
+    },
+    "min_price": 323.25
+  },
+  {
+    "f": {
+"identity": 831,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/10/2015 04:27:10",
+"duration": 51,
+"min_price": 210.75,
+"distance": 264,
+"airline": "20304"
+      }
+    },
+    "min_price": 210.75
+  },
+  {
+    "f": {
+"identity": 835,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/17/2015 13:00:32",
+"duration": 56,
+"min_price": 211.5,
+"distance": 264,
+"airline": "20304"
+      }
+    },
+    "min_price": 211.5
+  },
+  {
+    "f": {
+"identity": 839,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/25/2015 18:00:58",
+"duration": 50,
+"min_price": 210.0,
+"distance": 264,
+"airline": "20304"
+      }
+    },
+    "min_price": 210.0
+  },
+  {
+    "f": {
+"identity": 843,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/3/2015 10:51:24",
+"duration": 49,
+"min_price": 210.0,
+"distance": 264,
+"airline": "20304"
+      }
+    },
+    "min_price": 210.0
+  },
+  {
+    "f": {
+"identity": 847,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/10/2015 06:26:20",
+"duration": 34,
+"min_price": 111.0,
+"distance": 137,
+"airline": "20304"
+      }
+    },
+    "min_price": 111.0
+  },
+  {
+    "f": {
+"identity": 851,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/17/2015 16:11:47",
+"duration": 23,
+"min_price": 108.0,
+"distance": 137,
+"airline": "20304"
+      }
+    },
+    "min_price": 108.0
+  },
+  {
+    "f": {
+"identity": 855,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/24/2015 13:51:49",
+"duration": 24,
+"min_price": 108.75,
+"distance": 137,
+"airline": "20304"
+      }
+    },
+    "min_price": 108.75
+  },
+  {
+    "f": {
+"identity": 859,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/3/2015 14:27:55",
+"duration": 27,
+"min_price": 109.5,
+"distance": 137,
+"airline": "20304"
+      }
+    },
+    "min_price": 109.5
+  },
+  {
+    "f": {
+"identity": 863,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/25/2015 07:08:38",
+"duration": 32,
+"min_price": 110.25,
+"distance": 137,
+"airline": "20304"
+      }
+    },
+    "min_price": 110.25
+  },
+  {
+    "f": {
+"identity": 867,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/28/2015 20:26:56",
+"duration": 215,
+"min_price": 1151.25,
+"distance": 1464,
+"airline": "20304"
+      }
+    },
+    "min_price": 1151.25
+  },
+  {
+    "f": {
+"identity": 871,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/28/2015 16:17:41",
+"duration": 34,
+"min_price": 152.25,
+"distance": 192,
+"airline": "20304"
+      }
+    },
+    "min_price": 152.25
+  },
+  {
+    "f": {
+"identity": 875,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/28/2015 07:11:41",
+"duration": 126,
+"min_price": 748.5,
+"distance": 956,
+"airline": "20304"
+      }
+    },
+    "min_price": 748.5
+  },
+  {
+    "f": {
+"identity": 879,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/23/2015 06:38:48",
+"duration": 28,
+"min_price": 111.75,
+"distance": 140,
+"airline": "20304"
+      }
+    },
+    "min_price": 111.75
+  },
+  {
+    "f": {
+"identity": 883,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/24/2015 01:31:18",
+"duration": 20,
+"min_price": 51.0,
+"distance": 62,
+"airline": "20304"
+      }
+    },
+    "min_price": 51.0
+  },
+  {
+    "f": {
+"identity": 887,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/4/2015 19:03:40",
+"duration": 90,
+"min_price": 465.0,
+"distance": 590,
+"airline": "20304"
+      }
+    },
+    "min_price": 465.0
+  },
+  {
+    "f": {
+"identity": 891,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/2/2015 19:44:50",
+"duration": 92,
+"min_price": 465.0,
+"distance": 590,
+"airline": "20304"
+      }
+    },
+    "min_price": 465.0
+  },
+  {
+    "f": {
+"identity": 895,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/1/2015 07:53:13",
+"duration": 88,
+"min_price": 464.25,
+"distance": 590,
+"airline": "20304"
+      }
+    },
+    "min_price": 464.25
+  },
+  {
+    "f": {
+"identity": 899,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/3/2015 19:37:59",
+"duration": 101,
+"min_price": 467.25,
+"distance": 590,
+"airline": "20304"
+      }
+    },
+    "min_price": 467.25
+  },
+  {
+    "f": {
+"identity": 903,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/2/2015 16:40:54",
+"duration": 100,
+"min_price": 532.5,
+"distance": 677,
+"airline": "20304"
+      }
+    },
+    "min_price": 532.5
+  },
+  {
+    "f": {
+"identity": 907,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/1/2015 11:36:48",
+"duration": 102,
+"min_price": 533.25,
+"distance": 677,
+"airline": "20304"
+      }
+    },
+    "min_price": 533.25
+  },
+  {
+    "f": {
+"identity": 911,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/3/2015 23:13:12",
+"duration": 117,
+"min_price": 537.0,
+"distance": 677,
+"airline": "20304"
+      }
+    },
+    "min_price": 537.0
+  },
+  {
+    "f": {
+"identity": 915,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/4/2015 12:18:38",
+"duration": 100,
+"min_price": 532.5,
+"distance": 677,
+"airline": "20304"
+      }
+    },
+    "min_price": 532.5
+  },
+  {
+    "f": {
+"identity": 919,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/2/2015 04:43:56",
+"duration": 90,
+"min_price": 530.25,
+"distance": 677,
+"airline": "20304"
+      }
+    },
+    "min_price": 530.25
+  },
+  {
+    "f": {
+"identity": 923,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/4/2015 15:09:13",
+"duration": 84,
+"min_price": 528.75,
+"distance": 677,
+"airline": "20304"
+      }
+    },
+    "min_price": 528.75
+  },
+  {
+    "f": {
+"identity": 927,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/1/2015 05:43:58",
+"duration": 89,
+"min_price": 529.5,
+"distance": 677,
+"airline": "20304"
+      }
+    },
+    "min_price": 529.5
+  },
+  {
+    "f": {
+"identity": 931,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/3/2015 21:46:43",
+"duration": 86,
+"min_price": 528.75,
+"distance": 677,
+"airline": "20304"
+      }
+    },
+    "min_price": 528.75
+  },
+  {
+    "f": {
+"identity": 935,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/4/2015 05:08:02",
+"duration": 41,
+"min_price": 166.5,
+"distance": 209,
+"airline": "20304"
+      }
+    },
+    "min_price": 166.5
+  },
+  {
+    "f": {
+"identity": 939,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/1/2015 11:50:27",
+"duration": 41,
+"min_price": 166.5,
+"distance": 209,
+"airline": "20304"
+      }
+    },
+    "min_price": 166.5
+  },
+  {
+    "f": {
+"identity": 943,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/2/2015 00:11:49",
+"duration": 48,
+"min_price": 168.75,
+"distance": 209,
+"airline": "20304"
+      }
+    },
+    "min_price": 168.75
+  },
+  {
+    "f": {
+"identity": 947,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/3/2015 01:28:01",
+"duration": 39,
+"min_price": 166.5,
+"distance": 209,
+"airline": "20304"
+      }
+    },
+    "min_price": 166.5
+  },
+  {
+    "f": {
+"identity": 951,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/3/2015 11:45:25",
+"duration": 37,
+"min_price": 165.75,
+"distance": 209,
+"airline": "20304"
+      }
+    },
+    "min_price": 165.75
+  },
+  {
+    "f": {
+"identity": 955,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/2/2015 09:18:34",
+"duration": 39,
+"min_price": 166.5,
+"distance": 209,
+"airline": "20304"
+      }
+    },
+    "min_price": 166.5
+  },
+  {
+    "f": {
+"identity": 959,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/1/2015 02:27:11",
+"duration": 38,
+"min_price": 165.75,
+"distance": 209,
+"airline": "20304"
+      }
+    },
+    "min_price": 165.75
+  },
+  {
+    "f": {
+"identity": 963,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/4/2015 15:13:55",
+"duration": 42,
+"min_price": 167.25,
+"distance": 209,
+"airline": "20304"
+      }
+    },
+    "min_price": 167.25
+  },
+  {
+    "f": {
+"identity": 967,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/3/2015 23:26:29",
+"duration": 86,
+"min_price": 528.75,
+"distance": 677,
+"airline": "20304"
+      }
+    },
+    "min_price": 528.75
+  },
+  {
+    "f": {
+"identity": 971,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/1/2015 17:17:15",
+"duration": 88,
+"min_price": 529.5,
+"distance": 677,
+"airline": "20304"
+      }
+    },
+    "min_price": 529.5
+  },
+  {
+    "f": {
+"identity": 975,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/2/2015 15:15:29",
+"duration": 83,
+"min_price": 528.0,
+"distance": 677,
+"airline": "20304"
+      }
+    },
+    "min_price": 528.0
+  },
+  {
+    "f": {
+"identity": 979,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/1/2015 05:51:42",
+"duration": 63,
+"min_price": 354.0,
+"distance": 451,
+"airline": "20304"
+      }
+    },
+    "min_price": 354.0
+  },
+  {
+    "f": {
+"identity": 983,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/2/2015 09:52:31",
+"duration": 64,
+"min_price": 354.0,
+"distance": 451,
+"airline": "20304"
+      }
+    },
+    "min_price": 354.0
+  },
+  {
+    "f": {
+"identity": 987,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/1/2015 19:39:36",
+"duration": 73,
+"min_price": 356.25,
+"distance": 451,
+"airline": "20304"
+      }
+    },
+    "min_price": 356.25
+  },
+  {
+    "f": {
+"identity": 991,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/2/2015 00:00:13",
+"duration": 74,
+"min_price": 356.25,
+"distance": 451,
+"airline": "20304"
+      }
+    },
+    "min_price": 356.25
+  },
+  {
+    "f": {
+"identity": 995,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/2/2015 11:49:17",
+"duration": 61,
+"min_price": 294.75,
+"distance": 373,
+"airline": "20304"
+      }
+    },
+    "min_price": 294.75
+  },
+  {
+    "f": {
+"identity": 999,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/1/2015 12:26:52",
+"duration": 65,
+"min_price": 295.5,
+"distance": 373,
+"airline": "20304"
+      }
+    },
+    "min_price": 295.5
+  },
+  {
+    "f": {
+"identity": 1003,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/4/2015 05:06:26",
+"duration": 67,
+"min_price": 296.25,
+"distance": 373,
+"airline": "20304"
+      }
+    },
+    "min_price": 296.25
+  },
+  {
+    "f": {
+"identity": 1007,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/3/2015 13:44:40",
+"duration": 62,
+"min_price": 294.75,
+"distance": 373,
+"airline": "20304"
+      }
+    },
+    "min_price": 294.75
+  },
+  {
+    "f": {
+"identity": 1011,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/3/2015 02:43:07",
+"duration": 36,
+"min_price": 117.0,
+"distance": 144,
+"airline": "20304"
+      }
+    },
+    "min_price": 117.0
+  },
+  {
+    "f": {
+"identity": 1015,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/12/2015 09:06:34",
+"duration": 34,
+"min_price": 116.25,
+"distance": 144,
+"airline": "20304"
+      }
+    },
+    "min_price": 116.25
+  },
+  {
+    "f": {
+"identity": 1019,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/5/2015 02:29:00",
+"duration": 33,
+"min_price": 116.25,
+"distance": 144,
+"airline": "20304"
+      }
+    },
+    "min_price": 116.25
+  },
+  {
+    "f": {
+"identity": 1023,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/1/2015 15:42:37",
+"duration": 40,
+"min_price": 156.75,
+"distance": 196,
+"airline": "20304"
+      }
+    },
+    "min_price": 156.75
+  },
+  {
+    "f": {
+"identity": 1027,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/15/2015 17:06:11",
+"duration": 34,
+"min_price": 155.25,
+"distance": 196,
+"airline": "20304"
+      }
+    },
+    "min_price": 155.25
+  },
+  {
+    "f": {
+"identity": 1031,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/8/2015 22:46:03",
+"duration": 36,
+"min_price": 156.0,
+"distance": 196,
+"airline": "20304"
+      }
+    },
+    "min_price": 156.0
+  },
+  {
+    "f": {
+"identity": 1035,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/22/2015 23:46:44",
+"duration": 37,
+"min_price": 156.0,
+"distance": 196,
+"airline": "20304"
+      }
+    },
+    "min_price": 156.0
+  },
+  {
+    "f": {
+"identity": 1039,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/24/2015 22:27:05",
+"duration": 36,
+"min_price": 156.0,
+"distance": 196,
+"airline": "20304"
+      }
+    },
+    "min_price": 156.0
+  },
+  {
+    "f": {
+"identity": 1043,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/23/2015 06:42:48",
+"duration": 48,
+"min_price": 238.5,
+"distance": 302,
+"airline": "20304"
+      }
+    },
+    "min_price": 238.5
+  },
+  {
+    "f": {
+"identity": 1047,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/14/2015 06:13:09",
+"duration": 83,
+"min_price": 444.75,
+"distance": 566,
+"airline": "20304"
+      }
+    },
+    "min_price": 444.75
+  },
+  {
+    "f": {
+"identity": 1051,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/7/2015 04:10:59",
+"duration": 97,
+"min_price": 448.5,
+"distance": 566,
+"airline": "20304"
+      }
+    },
+    "min_price": 448.5
+  },
+  {
+    "f": {
+"identity": 1055,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/21/2015 05:07:50",
+"duration": 90,
+"min_price": 447.0,
+"distance": 566,
+"airline": "20304"
+      }
+    },
+    "min_price": 447.0
+  },
+  {
+    "f": {
+"identity": 1059,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/8/2015 02:52:41",
+"duration": 74,
+"min_price": 360.0,
+"distance": 456,
+"airline": "20304"
+      }
+    },
+    "min_price": 360.0
+  },
+  {
+    "f": {
+"identity": 1063,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/15/2015 18:49:09",
+"duration": 79,
+"min_price": 361.5,
+"distance": 456,
+"airline": "20304"
+      }
+    },
+    "min_price": 361.5
+  },
+  {
+    "f": {
+"identity": 1067,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/22/2015 21:16:27",
+"duration": 82,
+"min_price": 362.25,
+"distance": 456,
+"airline": "20304"
+      }
+    },
+    "min_price": 362.25
+  },
+  {
+    "f": {
+"identity": 1071,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 20:38:43",
+"duration": 32,
+"min_price": 115.5,
+"distance": 144,
+"airline": "20304"
+      }
+    },
+    "min_price": 115.5
+  },
+  {
+    "f": {
+"identity": 1075,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/11/2015 21:27:19",
+"duration": 79,
+"min_price": 450.0,
+"distance": 574,
+"airline": "20304"
+      }
+    },
+    "min_price": 450.0
+  },
+  {
+    "f": {
+"identity": 1079,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/16/2015 11:51:32",
+"duration": 79,
+"min_price": 450.0,
+"distance": 574,
+"airline": "20304"
+      }
+    },
+    "min_price": 450.0
+  },
+  {
+    "f": {
+"identity": 1083,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/20/2015 16:07:37",
+"duration": 79,
+"min_price": 450.0,
+"distance": 574,
+"airline": "20304"
+      }
+    },
+    "min_price": 450.0
+  },
+  {
+    "f": {
+"identity": 1087,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/25/2015 02:04:22",
+"duration": 79,
+"min_price": 450.0,
+"distance": 574,
+"airline": "20304"
+      }
+    },
+    "min_price": 450.0
+  },
+  {
+    "f": {
+"identity": 1091,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/23/2015 09:37:48",
+"duration": 70,
+"min_price": 447.75,
+"distance": 574,
+"airline": "20304"
+      }
+    },
+    "min_price": 447.75
+  },
+  {
+    "f": {
+"identity": 1095,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/8/2015 01:12:54",
+"duration": 28,
+"min_price": 91.5,
+"distance": 113,
+"airline": "20304"
+      }
+    },
+    "min_price": 91.5
+  },
+  {
+    "f": {
+"identity": 1099,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/12/2015 15:22:50",
+"duration": 41,
+"min_price": 94.5,
+"distance": 113,
+"airline": "20304"
+      }
+    },
+    "min_price": 94.5
+  },
+  {
+    "f": {
+"identity": 1103,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 18:26:15",
+"duration": 30,
+"min_price": 92.25,
+"distance": 113,
+"airline": "20304"
+      }
+    },
+    "min_price": 92.25
+  },
+  {
+    "f": {
+"identity": 1107,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/9/2015 09:02:10",
+"duration": 34,
+"min_price": 93.0,
+"distance": 113,
+"airline": "20304"
+      }
+    },
+    "min_price": 93.0
+  },
+  {
+    "f": {
+"identity": 1111,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/19/2015 14:27:50",
+"duration": 31,
+"min_price": 92.25,
+"distance": 113,
+"airline": "20304"
+      }
+    },
+    "min_price": 92.25
+  },
+  {
+    "f": {
+"identity": 1115,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/10/2015 20:27:15",
+"duration": 27,
+"min_price": 91.5,
+"distance": 113,
+"airline": "20304"
+      }
+    },
+    "min_price": 91.5
+  },
+  {
+    "f": {
+"identity": 1119,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/14/2015 01:34:59",
+"duration": 32,
+"min_price": 92.25,
+"distance": 113,
+"airline": "20304"
+      }
+    },
+    "min_price": 92.25
+  },
+  {
+    "f": {
+"identity": 1123,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/28/2015 00:41:54",
+"duration": 23,
+"min_price": 90.0,
+"distance": 113,
+"airline": "20304"
+      }
+    },
+    "min_price": 90.0
+  },
+  {
+    "f": {
+"identity": 1127,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/7/2015 09:37:36",
+"duration": 31,
+"min_price": 92.25,
+"distance": 113,
+"airline": "20304"
+      }
+    },
+    "min_price": 92.25
+  },
+  {
+    "f": {
+"identity": 1131,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/3/2015 23:48:21",
+"duration": 33,
+"min_price": 93.0,
+"distance": 113,
+"airline": "20304"
+      }
+    },
+    "min_price": 93.0
+  },
+  {
+    "f": {
+"identity": 1135,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/15/2015 03:34:56",
+"duration": 33,
+"min_price": 93.0,
+"distance": 113,
+"airline": "20304"
+      }
+    },
+    "min_price": 93.0
+  },
+  {
+    "f": {
+"identity": 1139,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/6/2015 07:15:14",
+"duration": 31,
+"min_price": 92.25,
+"distance": 113,
+"airline": "20304"
+      }
+    },
+    "min_price": 92.25
+  },
+  {
+    "f": {
+"identity": 1143,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/1/2015 17:59:52",
+"duration": 32,
+"min_price": 92.25,
+"distance": 113,
+"airline": "20304"
+      }
+    },
+    "min_price": 92.25
+  },
+  {
+    "f": {
+"identity": 1147,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/27/2015 13:43:05",
+"duration": 31,
+"min_price": 92.25,
+"distance": 113,
+"airline": "20304"
+      }
+    },
+    "min_price": 92.25
+  },
+  {
+    "f": {
+"identity": 1151,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/1/2015 18:36:25",
+"duration": 24,
+"min_price": 90.75,
+"distance": 113,
+"airline": "20304"
+      }
+    },
+    "min_price": 90.75
+  },
+  {
+    "f": {
+"identity": 1155,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/30/2015 16:58:39",
+"duration": 25,
+"min_price": 90.75,
+"distance": 113,
+"airline": "20304"
+      }
+    },
+    "min_price": 90.75
+  },
+  {
+    "f": {
+"identity": 1159,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/23/2015 17:22:45",
+"duration": 27,
+"min_price": 91.5,
+"distance": 113,
+"airline": "20304"
+      }
+    },
+    "min_price": 91.5
+  },
+  {
+    "f": {
+"identity": 1163,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/7/2015 13:53:55",
+"duration": 29,
+"min_price": 91.5,
+"distance": 113,
+"airline": "20304"
+      }
+    },
+    "min_price": 91.5
+  },
+  {
+    "f": {
+"identity": 1167,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/14/2015 08:35:13",
+"duration": 26,
+"min_price": 90.75,
+"distance": 113,
+"airline": "20304"
+      }
+    },
+    "min_price": 90.75
+  },
+  {
+    "f": {
+"identity": 1171,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/21/2015 13:15:28",
+"duration": 29,
+"min_price": 91.5,
+"distance": 113,
+"airline": "20304"
+      }
+    },
+    "min_price": 91.5
+  },
+  {
+    "f": {
+"identity": 1175,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/22/2015 16:08:17",
+"duration": 26,
+"min_price": 90.75,
+"distance": 113,
+"airline": "20304"
+      }
+    },
+    "min_price": 90.75
+  },
+  {
+    "f": {
+"identity": 1179,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/5/2015 03:37:34",
+"duration": 27,
+"min_price": 91.5,
+"distance": 113,
+"airline": "20304"
+      }
+    },
+    "min_price": 91.5
+  },
+  {
+    "f": {
+"identity": 1183,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/3/2015 09:44:28",
+"duration": 26,
+"min_price": 90.75,
+"distance": 113,
+"airline": "20304"
+      }
+    },
+    "min_price": 90.75
+  },
+  {
+    "f": {
+"identity": 1187,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/2/2015 16:13:56",
+"duration": 25,
+"min_price": 90.75,
+"distance": 113,
+"airline": "20304"
+      }
+    },
+    "min_price": 90.75
+  },
+  {
+    "f": {
+"identity": 1191,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/15/2015 01:28:08",
+"duration": 26,
+"min_price": 90.75,
+"distance": 113,
+"airline": "20304"
+      }
+    },
+    "min_price": 90.75
+  },
+  {
+    "f": {
+"identity": 1195,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/19/2015 08:22:24",
+"duration": 31,
+"min_price": 92.25,
+"distance": 113,
+"airline": "20304"
+      }
+    },
+    "min_price": 92.25
+  },
+  {
+    "f": {
+"identity": 1199,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/28/2015 16:02:02",
+"duration": 29,
+"min_price": 91.5,
+"distance": 113,
+"airline": "20304"
+      }
+    },
+    "min_price": 91.5
+  },
+  {
+    "f": {
+"identity": 1203,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/12/2015 11:00:36",
+"duration": 31,
+"min_price": 92.25,
+"distance": 113,
+"airline": "20304"
+      }
+    },
+    "min_price": 92.25
+  },
+  {
+    "f": {
+"identity": 1207,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/20/2015 10:42:41",
+"duration": 28,
+"min_price": 91.5,
+"distance": 113,
+"airline": "20304"
+      }
+    },
+    "min_price": 91.5
+  },
+  {
+    "f": {
+"identity": 1211,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/25/2015 07:08:05",
+"duration": 24,
+"min_price": 90.75,
+"distance": 113,
+"airline": "20304"
+      }
+    },
+    "min_price": 90.75
+  },
+  {
+    "f": {
+"identity": 1215,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/8/2015 21:09:38",
+"duration": 26,
+"min_price": 90.75,
+"distance": 113,
+"airline": "20304"
+      }
+    },
+    "min_price": 90.75
+  },
+  {
+    "f": {
+"identity": 1219,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/29/2015 15:57:05",
+"duration": 24,
+"min_price": 90.75,
+"distance": 113,
+"airline": "20304"
+      }
+    },
+    "min_price": 90.75
+  },
+  {
+    "f": {
+"identity": 1223,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/10/2015 08:07:53",
+"duration": 24,
+"min_price": 90.75,
+"distance": 113,
+"airline": "20304"
+      }
+    },
+    "min_price": 90.75
+  },
+  {
+    "f": {
+"identity": 1227,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/9/2015 09:02:49",
+"duration": 25,
+"min_price": 90.75,
+"distance": 113,
+"airline": "20304"
+      }
+    },
+    "min_price": 90.75
+  },
+  {
+    "f": {
+"identity": 1231,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/17/2015 06:55:18",
+"duration": 32,
+"min_price": 92.25,
+"distance": 113,
+"airline": "20304"
+      }
+    },
+    "min_price": 92.25
+  },
+  {
+    "f": {
+"identity": 1235,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/4/2015 13:00:48",
+"duration": 24,
+"min_price": 90.75,
+"distance": 113,
+"airline": "20304"
+      }
+    },
+    "min_price": 90.75
+  },
+  {
+    "f": {
+"identity": 1239,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/16/2015 21:08:34",
+"duration": 26,
+"min_price": 90.75,
+"distance": 113,
+"airline": "20304"
+      }
+    },
+    "min_price": 90.75
+  },
+  {
+    "f": {
+"identity": 1243,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/6/2015 01:54:22",
+"duration": 27,
+"min_price": 91.5,
+"distance": 113,
+"airline": "20304"
+      }
+    },
+    "min_price": 91.5
+  },
+  {
+    "f": {
+"identity": 1247,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/24/2015 09:05:04",
+"duration": 145,
+"min_price": 866.25,
+"distance": 1107,
+"airline": "20304"
+      }
+    },
+    "min_price": 866.25
+  },
+  {
+    "f": {
+"identity": 1251,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/24/2015 13:28:12",
+"duration": 142,
+"min_price": 865.5,
+"distance": 1107,
+"airline": "20304"
+      }
+    },
+    "min_price": 865.5
+  },
+  {
+    "f": {
+"identity": 1255,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/23/2015 20:00:16",
+"duration": 64,
+"min_price": 352.5,
+"distance": 449,
+"airline": "20304"
+      }
+    },
+    "min_price": 352.5
+  },
+  {
+    "f": {
+"identity": 1259,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/22/2015 21:37:37",
+"duration": 59,
+"min_price": 351.0,
+"distance": 449,
+"airline": "20304"
+      }
+    },
+    "min_price": 351.0
+  },
+  {
+    "f": {
+"identity": 1263,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/25/2015 21:27:24",
+"duration": 67,
+"min_price": 353.25,
+"distance": 449,
+"airline": "20304"
+      }
+    },
+    "min_price": 353.25
+  },
+  {
+    "f": {
+"identity": 1267,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/12/2015 18:31:53",
+"duration": 77,
+"min_price": 355.5,
+"distance": 449,
+"airline": "20304"
+      }
+    },
+    "min_price": 355.5
+  },
+  {
+    "f": {
+"identity": 1271,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/17/2015 14:15:48",
+"duration": 82,
+"min_price": 357.0,
+"distance": 449,
+"airline": "20304"
+      }
+    },
+    "min_price": 357.0
+  },
+  {
+    "f": {
+"identity": 1275,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/18/2015 19:38:29",
+"duration": 87,
+"min_price": 358.5,
+"distance": 449,
+"airline": "20304"
+      }
+    },
+    "min_price": 358.5
+  },
+  {
+    "f": {
+"identity": 1279,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/4/2015 18:18:30",
+"duration": 69,
+"min_price": 354.0,
+"distance": 449,
+"airline": "20304"
+      }
+    },
+    "min_price": 354.0
+  },
+  {
+    "f": {
+"identity": 1283,
+"labels": [
+        "Flight"
+      ],
+"properties": {
+"date": "11/1/2015 09:50:42",
+"duration": 61,
+"min_price": 351.75,
+"distance": 449,
+"airline": "20304"
+      }
+    },
+    "min_price": 351.75
+  }
+]

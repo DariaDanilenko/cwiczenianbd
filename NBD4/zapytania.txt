@@ -1,0 +1,33 @@
+1. MATCH (dar:town {name: 'Darjeeling'} ),
+      (sandak:peak {name: 'Sandakphu'}),
+      p = shortestPath((dar)-[*]-(sandak))
+RETURN p
+
+2. MATCH (dar:town {name: 'Darjeeling'} ),
+      (sandak:peak {name: 'Sandakphu'}),
+      p = shortestPath((dar)-[*]-(sandak))
+WHERE all(r IN relationships(p) WHERE r.winter = "true" )
+RETURN p
+
+3. Match p=((dar:town {name: "Darjeeling"})-[r*2..5]-(sandak:peak {name: "Sandakphu"}))
+WITH REDUCE(distancesum = 0, trasa IN r | distancesum + trasa.distance) AS total_distance,p
+return p, total_distance
+order by total_distance
+
+4. Match p=((dar:town {name: "Darjeeling"})-[*..5]-(dest))
+WITH *, relationships(p) AS r
+WHERE all(trasa IN r WHERE trasa.summer = "true" and type(trasa) = "twowheeler" )
+return dest 
+
+5. MATCH (n:Airport)<-[r:ORIGIN]-()
+RETURN n.name, count(*) as origin_cnt
+ORDER BY origin_cnt DESC
+
+(dodatkowo) przygotowanie do kolejnych zadan:
+CALL {
+    MATCH (ticket:Ticket)-[r:ASSIGN]->(f:Flight)-[r2:DESTINATION]->(dest)
+    RETURN f, r2, min(ticket.price) as min_price
+}
+SET r2.min_price = min_price
+RETURN f, r2
+
